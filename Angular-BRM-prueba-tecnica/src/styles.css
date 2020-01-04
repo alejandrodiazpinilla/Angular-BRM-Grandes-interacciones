@@ -8,3 +8,12 @@
     /* background-color: transparent !important; */
     opacity: 0.68;
 }
+footer{
+    background: url(https://imagenes.universia.net/gc/net/images/educacion/e/es/est/estudio_en_casa.jpg) no-repeat center ;
+    background-size: cover;
+    min-height: 20vh;
+    color: black;
+}
+.a{
+color: black;
+}

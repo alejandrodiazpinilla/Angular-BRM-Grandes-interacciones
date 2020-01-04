@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.header {
+    background: url(http://xie.arquitecturausa.com/wp-content/uploads/2016/09/pexels-photo-106399.jpeg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .header .navbar {
+    /* background-color: transparent !important; */
+    opacity: 0.68;
+}

@@ -14,6 +14,15 @@ footer{
     min-height: 20vh;
     color: black;
 }
-.a{
+/* .a{
 color: black;
+} */
+h4{
+    text-align: center;
+}
+a{
+    text-align: right;
+}
+p{
+color: yellow;
 }
